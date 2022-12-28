@@ -1,3 +1,3 @@
-# Support-And-Resistance-CMF-
+# Support And Resistance CMF
 
 Реализация стратегии на основе уровней поддержки и сопротивления
