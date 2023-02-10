@@ -1,3 +1,3 @@
 # Support And Resistance CMF
 
-Реализация стратегии на основе уровней поддержки и сопротивления в качестве вступительного задания в CMF
+Implementing a strategy based on support and resistance levels as an introductory task in CMF
